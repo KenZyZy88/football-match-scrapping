@@ -24,5 +24,5 @@ def backup_files(source_folder, destination_folder):
     
 # Example usage
 source_folder_path = "C:/Users/User/Desktop/Code/scraping/data/"
-destination_folder_path = "//192.168.0.3/Public/Data/RawData/FBREF_v2/"
+destination_folder_path = "//192.168.0.***/Public/Data/RawData/FBREF_v2/"
 backup_files(source_folder_path, destination_folder_path)
